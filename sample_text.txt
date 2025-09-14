@@ -1,0 +1,8 @@
+Hello World! This is a sample text file.
+It contains various characters and words.
+We will extract and sort the alphabetic characters.
+The quick brown fox jumps over the lazy dog.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+1234567890
+!@#$%^&*()_+-=[]{}|;':\",./<>?
